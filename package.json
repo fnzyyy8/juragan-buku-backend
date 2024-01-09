@@ -23,6 +23,7 @@
     "prisma": "^5.7.1"
   },
   "dependencies": {
-    "@prisma/client": "^5.7.1"
+    "@prisma/client": "^5.7.1",
+    "joi": "^17.11.0"
   }
 }
